@@ -5,4 +5,4 @@ Tested Feature
 - Login
 - Registration
 
-<h3> <a href="https://bikroy.com/"> bikroy.com/ </a> </h3>
+<h3> <a href="https://bikroy.com/"> bikroy.com </a> </h3>
